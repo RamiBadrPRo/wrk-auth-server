@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.auth"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "gateway",
+    "baseName": "auth",
+    "packageName": "com.auth",
+    "packageFolder": "com/auth",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YmRkNjczOTM5MThjM2Q4NTEwYWIwNzI0MDk1NjgyNGVjMWM1NzdmMTU5YTA4Y2RmYTRjN2UyODQ0OWUxODg3MGQxOWQwOWMxYmYzZmY5MDM1YTliZmVkMThmM2JlMjI1ODFjNzE4OTllZDViOTU1YzkxOTUzOTU1M2RiYThkZDY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1592891885570,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
